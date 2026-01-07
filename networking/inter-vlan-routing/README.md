@@ -9,7 +9,8 @@ A comprehensive guide for configuring inter-VLAN routing between Cisco switches 
 
 ---
 ## Topology Example
-![Network Topology](topology.png)
+<img width="1083" height="630" alt="topology" src="https://github.com/user-attachments/assets/e9ffe70e-0865-41e4-9ec4-8d3aebff17ad" />
+
 
 ## Switch Configuration
 
