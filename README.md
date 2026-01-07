@@ -1,10 +1,7 @@
 ## 🔬 Lab Categories
-- Networking & Switching Labs
-- VLANs & Inter-VLAN Routing
-- Blue Team & SOC Fundamentals
-- Detection & Log Analysis
+- Networking
+- Blue Team
 - Azure
-- Security Tool Exploration
 
 ---
 
